@@ -8,3 +8,4 @@ The system is able to detect face and recognize age &amp; gender of the persons 
 ![](https://github.com/Kiranashree23/face_age_gender_detection/blob/main/DETECT%203.png)
 
 
+![](https://github.com/Kiranashree23/face_age_gender_detection/blob/main/DETECT%204.png)
