@@ -62,4 +62,4 @@ Detecting face, age, gender in import image.
 
 ![](https://github.com/Kiranashree23/face_age_gender_detection/blob/main/DETECT%204.png)
 
-Description: This picture shows the detection of face, age and gender in import dark lightning image using openCV & haarcascade frontalface default, Convolutional neural network models as caffe models it helps to recognize person age and gender.
+Description: This picture shows the detection of face, age and gender in import dark image using openCV & haarcascade frontalface default, Convolutional neural network models as caffe models it helps to recognize person age and gender.
