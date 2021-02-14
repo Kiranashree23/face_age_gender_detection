@@ -65,6 +65,7 @@ Detecting face, age, gender in import image.
 Description: This picture shows the detection of face, age and gender in import dark image using openCV & haarcascade frontalface default, Convolutional neural network models as caffe models it helps to recognize person age and gender.
 
 
+
 KIRANASHREE B K
 
 4VV19SCS05
